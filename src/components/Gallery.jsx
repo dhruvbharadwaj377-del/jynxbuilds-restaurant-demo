@@ -14,28 +14,28 @@ function Gallery() {
       <div className="gallery-grid">
         <div className="gallery-item gallery-item-large">
           <img
-            src="/images/interior-01.jpg"
+            src="./images/interior-01.jpg"
             alt="Maison Noir dining room"
           />
         </div>
 
         <div className="gallery-item gallery-item-small">
           <img
-            src="/images/interior-02.jpg"
+            src="./images/interior-02.jpg"
             alt="Maison Noir table setting"
           />
         </div>
 
         <div className="gallery-item gallery-item-small">
           <img
-            src="/images/gallery-01.jpg"
+            src="./images/gallery-01.jpg"
             alt="Maison Noir dining detail"
           />
         </div>
 
         <div className="gallery-item gallery-item-wide">
           <img
-            src="/images/gallery-02.jpg"
+            src="./images/gallery-02.jpg"
             alt="Maison Noir atmosphere"
           />
         </div>
@@ -44,7 +44,7 @@ function Gallery() {
       <div className="gallery-chef">
         <div className="chef-image">
           <img
-            src="/images/chef.jpg"
+            src="./images/chef.jpg"
             alt="Maison Noir chef"
           />
         </div>

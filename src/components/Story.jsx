@@ -2,7 +2,7 @@ function Story() {
   return (
     <section className="story" id="story">
       <div className="story-image">
-        <img src="/images/story.jpg" alt="Maison Noir interior" />
+        <img src="./images/story.jpg" alt="Maison Noir interior" />
       </div>
 
       <div className="story-content">

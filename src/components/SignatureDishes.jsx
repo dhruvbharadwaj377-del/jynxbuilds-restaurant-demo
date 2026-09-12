@@ -23,7 +23,7 @@ function SignatureDishes() {
         <article className="dish dish-large">
           <div className="dish-image">
             <img
-              src="/images/dish-01.jpg"
+              src="./images/dish-01.jpg"
               alt="Maison Noir signature pasta"
             />
           </div>
@@ -43,7 +43,7 @@ function SignatureDishes() {
         <article className="dish">
           <div className="dish-image">
             <img
-              src="/images/dish-02.jpg"
+              src="./images/dish-02.jpg"
               alt="Maison Noir main course"
             />
           </div>
@@ -63,7 +63,7 @@ function SignatureDishes() {
         <article className="dish">
           <div className="dish-image">
             <img
-              src="/images/dish-03.jpg"
+              src="./images/dish-03.jpg"
               alt="Maison Noir dessert"
             />
           </div>
