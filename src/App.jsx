@@ -1,5 +1,5 @@
 import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
+import NoirExperience from "./experience/NoirExperience";
 import Story from "./components/Story";
 import SignatureDishes from "./components/SignatureDishes";
 import Gallery from "./components/Gallery";
@@ -10,11 +10,13 @@ function App() {
   return (
     <>
       <Navbar />
-      <Hero />
-      <Story />
-      <SignatureDishes />
-      <Gallery />
-      <Reservation />
+      <main>
+        <NoirExperience />
+        <Story />
+        <SignatureDishes />
+        <Gallery />
+        <Reservation />
+      </main>
       <Footer />
     </>
   );
