@@ -625,6 +625,20 @@ img {
   transform: translateY(-2px);
 }
 
+/* Concept-demo notice in place of a reservation action: same size and
+   lettering as the CTA it replaces, outlined so it never reads as a button. */
+.reservation-demo {
+  max-width: 450px;
+  margin-top: 35px;
+  padding: 17px 28px;
+  border: 1px solid rgba(244, 240, 232, 0.35);
+  color: rgba(244, 240, 232, 0.78);
+  font-size: 11px;
+  line-height: 1.7;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+
 .reservation-meta {
   display: flex;
   gap: 120px;
@@ -703,6 +717,21 @@ img {
 
 .footer-links a:hover {
   color: #f4f0e8;
+}
+
+.footer-demo {
+  max-width: 240px;
+  font-size: 12px;
+  line-height: 1.6;
+  color: rgba(244, 240, 232, 0.65);
+}
+
+.footer-disclaimer {
+  max-width: 640px;
+  padding-bottom: 25px;
+  font-size: 12px;
+  line-height: 1.6;
+  color: rgba(244, 240, 232, 0.55);
 }
 
 .footer-bottom {

@@ -592,9 +592,9 @@ export default function NoirExperience() {
               Join us for an evening of thoughtful cuisine, intimate surroundings, and moments worth lingering over.
             </p>
             <div className="noir-actions">
-              <a href="mailto:reservations@maisonnoir.com" className="noir-btn noir-btn--solid">
-                Request a Reservation <b aria-hidden="true">→</b>
-              </a>
+              <p className="noir-demo-note" role="note">
+                Concept demonstration only — no real reservations are accepted or sent.
+              </p>
               <a href="#reservation" className="noir-btn">
                 Hours &amp; location <b aria-hidden="true">↓</b>
               </a>

@@ -15,9 +15,9 @@ function Reservation() {
           surroundings, and moments worth lingering over.
         </p>
 
-        <a href="mailto:reservations@maisonnoir.com" className="reservation-cta">
-          Request a Reservation →
-        </a>
+        <p className="reservation-demo" role="note">
+          Concept demonstration only — no real reservations are accepted or sent.
+        </p>
       </div>
 
       <div className="reservation-meta">

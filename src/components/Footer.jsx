@@ -21,15 +21,17 @@ function Footer() {
 
           <div>
             <span>CONTACT</span>
-            <a href="mailto:hello@maisonnoir.com">
-              hello@maisonnoir.com
-            </a>
-            <a href="tel:+33100000000">
-              +33 1 00 00 00 00
-            </a>
+            <p className="footer-demo">
+              Concept demonstration only — no real reservations are accepted or sent.
+            </p>
           </div>
         </div>
       </div>
+
+      <p className="footer-disclaimer">
+        Maison Noir is a fictional concept project by JynxBuilds. This demonstration is not an operating restaurant
+        and does not accept real reservations.
+      </p>
 
       <div className="footer-bottom">
         <span>© 2026 MAISON NOIR</span>
